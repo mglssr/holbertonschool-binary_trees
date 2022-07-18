@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-/*
+/**
 * binary_tree_postorder - function that goes through a binary tree
 * using post-order traversal
 * @tree: is a pointer to the root node of the tree to traverse
